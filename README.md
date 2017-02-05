@@ -1,4 +1,4 @@
-# Ubuntu LTS based Nginx.
+# Ubuntu LTS based Nginx
 
 Based on https://hub.docker.com/_/ubuntu/
 
